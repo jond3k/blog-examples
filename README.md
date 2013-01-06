@@ -5,7 +5,7 @@ When I paste any code on my blog, [statemachina.com](http://statemachina.com), t
 
 Currently this repo contains code for:
 
-1. [Catching segfaults when using sun.misc.Unsafe](http://statemachina.wordpress.com/2013/01/06/catching-jvm-seg-faults/)
+1. [Catching segfaults when using sun.misc.Unsafe](http://statemachina.wordpress.com/2013/01/06/catching-unsafe-seg-faults/)
 
 Use any of this code freely. Feedback (peer review) is encouraged.
 

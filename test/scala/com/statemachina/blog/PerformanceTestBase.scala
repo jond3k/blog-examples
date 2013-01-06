@@ -3,7 +3,9 @@ package com.statemachina.blog
 import scala.collection.mutable
 
 /**
+ * So I don't have to keep writing monotonous boilerplate code for performance tests.
  *
+ * Just test("description") { /* code to test */ }
  */
 trait PerformanceTestBase {
 

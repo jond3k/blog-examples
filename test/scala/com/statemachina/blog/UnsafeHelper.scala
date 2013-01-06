@@ -3,7 +3,7 @@ package com.statemachina.blog
 import sun.misc.Unsafe
 
 /**
- * 
+ * Makes working with unsafe a bit easier
  */
 trait UnsafeHelper {
   val unsafe = try {
