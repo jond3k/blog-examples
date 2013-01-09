@@ -10,7 +10,7 @@ import sun.misc.Unsafe
  * but it can be swapped out for an UnsafeAccessor after testing.
  */
 class BoundedAccessor(unsafe: Unsafe, address: Long, size: Long) extends UnsafeAccessor(unsafe) {
-  val end = address + size
+  private val end = address + size
 
   private def checkBounds(l: Long) {
     if (l < address || l >= end) {
