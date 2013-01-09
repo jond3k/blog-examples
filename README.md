@@ -1,7 +1,7 @@
 blog code
 ===
 
-When I paste any code on my blog, [finite automata](http://jond3k.wordpress.com), that wont fit inside a Gist but is too small to be a project in its own right, I'll instead place it in this repository.
+When I paste any code on [my blog](http://jond3k.wordpress.com) that wont fit inside a Gist, but is too small to be a project in its own right, I'll instead place it in this repository.
 
 Currently this repo contains code for:
 
