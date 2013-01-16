@@ -1,8 +1,8 @@
-package com.statemachina.blog
+package com.jond3k.blog
 
-import accessors.{BoundedAccessor, UnsafeAccessor}
 import org.scalatest.{BeforeAndAfterAll, FlatSpec, BeforeAndAfter}
 import org.scalatest.matchers.MustMatchers
+import com.jond3k.blog.accessors.{UnsafeAccessor, BoundedAccessor}
 
 /**
  * 

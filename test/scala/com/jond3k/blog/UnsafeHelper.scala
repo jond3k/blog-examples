@@ -1,4 +1,4 @@
-package com.statemachina.blog
+package com.jond3k.blog
 
 import sun.misc.Unsafe
 

@@ -1,6 +1,7 @@
 package com.statemachina.blog.accessors
 
-import com.statemachina.blog.{UnsafeHelper, PerformanceTestBase}
+import com.jond3k.blog.accessors.{UnsafeAccessor, BoundedAccessor}
+import com.jond3k.blog.{UnsafeHelper, PerformanceTestBase}
 
 /**
  * Demonstrates the performance of Unsafe, a facade to Unsafe (UnsafeAccessor) and
