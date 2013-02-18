@@ -56,6 +56,5 @@ class ComplexPredicatesTest extends FlatSpec with MustMatchers {
       )
     )
     parser.parse("(a ∧ b) ∨ (a ∧ c) ⇔ a ∧ (b ∨ c)") must equal(expected)
-    //parser.parse("(a∧b)∨(a∧c)⇔a∧(b∨c)") must equal(expected)
   }
 }
